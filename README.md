@@ -1,8 +1,8 @@
 # PDF to Branded PowerPoint Converter
 
-A Python tool that converts LaTeX-generated PDF presentations into professionally branded PowerPoint presentations. This tool automatically extracts content from PDF slides, applies company branding, and generates polished presentations ready for business use.
+A Python tool that converts LaTeX-generated PDF presentations into professionally branded PowerPoint presentations. This tool automatically extracts content from PDF slides, applies company branding, and generates polished presentations ready for business use. See Lecture 15 for example.
 
-See Lecture 15 for example.
+
 
 ## Features
 
@@ -243,4 +243,5 @@ If you encounter any issues or have questions, please:
 
 
 **Note**: This tool is designed for converting academic/research PDFs to business presentations. Results may vary depending on the PDF structure and content layout.
+
 
