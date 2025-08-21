@@ -176,10 +176,10 @@ $RECYCLE.BIN/
 *.swp
 *.swo
 
-# Personal folders and test data
-lecture_*/
-!lecture_15/
-
 # Company sensitive data - exclude these specific examples
 lecture_15_16/
 lecture_17_18/
+
+# Personal folders and test data (exclude all except lecture_15 example)
+lecture_*/
+!lecture_15/
