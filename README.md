@@ -22,7 +22,7 @@ See Lecture 15 for example.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/pdf-to-ppt-converter.git
+git clone https://github.com/yuchengzhang966/ppt.git
 cd pdf-to-ppt-converter
 ```
 
@@ -243,3 +243,4 @@ If you encounter any issues or have questions, please:
 
 
 **Note**: This tool is designed for converting academic/research PDFs to business presentations. Results may vary depending on the PDF structure and content layout.
+
