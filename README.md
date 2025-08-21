@@ -2,6 +2,8 @@
 
 A Python tool that converts LaTeX-generated PDF presentations into professionally branded PowerPoint presentations. This tool automatically extracts content from PDF slides, applies company branding, and generates polished presentations ready for business use.
 
+See Lecture 15 for example.
+
 ## Features
 
 - **Automated PDF Processing**: Converts PDF pages to high-quality PNG images
@@ -238,5 +240,6 @@ If you encounter any issues or have questions, please:
 3. Create a new issue with detailed information about your problem
 
 ---
+
 
 **Note**: This tool is designed for converting academic/research PDFs to business presentations. Results may vary depending on the PDF structure and content layout.
